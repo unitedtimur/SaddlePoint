@@ -1,4 +1,10 @@
-﻿#include <cstdio>
+/*
+*
+*Created by UnitedTimur
+*
+*/
+
+#include <cstdio>
 #include <cstdlib>
 #include <iostream>
 
